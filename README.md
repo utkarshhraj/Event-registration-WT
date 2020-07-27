@@ -1,2 +1,2 @@
 # Event-registration-WT
-This is repository for my Web Technology Assignment where i created a Event Registration Website using HTML, CSS, JS.
+Web Technology Practical No. 2. Event Registrayion Website using html, css, js.
